@@ -1,22 +1,22 @@
-token: ""
-prefix: ""
+token: "798894126057783298"
+prefix: "!"
 guilds:
-    main: ""
-    testing: ""
+    main: "708861384968110101"
+    testing: "708861384968110101"
 channels:
-    invite: ""
-    logs: ""
+    invite: "738685761616085086"
+    logs: "738685761616085086"
 roles:
-    website: ""
-    tester: ""
-    bots: ""
-    developers: "
+    website: "738685705668132904"
+    tester: "738685705668132904"
+    bots: "738685710214758441"
+    developers: "738685708197429279"
 port: 3000
 color: 0x7289da
 bot:
-    id: ""
-    secret: ""
-    redirect: ""
+    id: "774938599594262528"
+    secret: "798899595576999948"
+    redirect: "https://botlist1111.herokuapp.com/"
     scopes:
         - identify
         - guilds.join
